@@ -1,4 +1,4 @@
-# Python program for array rotation(left shift) by 2 elements
+# Python program for array rotation(left shift) by d elements
 
 arr=[1,2,3,4,5,6,7]
 
@@ -19,7 +19,6 @@ def leftRotatebyOne(arr,n):
 def printarray(arr,size):
     for i in range(size):
         print(" %d" % arr[i],end="")
-
 
 leftRotate(arr,2,7)
 printarray(arr,7)
