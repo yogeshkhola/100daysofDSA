@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a163f956-54bb-4316-9fc3-c41c079f582e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day 1/RightRotaion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 1/ArrRot.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 1/ArrRot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 1/reversalalgo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 1/reversalalgo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.arr.rotation">
+  <component name="RunManager" selected="Python.reversalalgo (1)">
     <configuration name="ArrRot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100daysofDSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,10 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reversalalgo (1)" />
         <item itemvalue="Python.arr.rotation" />
         <item itemvalue="Python.RightRotaion" />
         <item itemvalue="Python.ArrRot" />
-        <item itemvalue="Python.reversalalgo (1)" />
         <item itemvalue="Python.LeftRotation (1)" />
       </list>
     </recent_temporary>
