@@ -20,5 +20,6 @@ def printarray(arr,size):
     for i in range(size):
         print(" %d" % arr[i],end="")
 
+
 leftRotate(arr,2,7)
 printarray(arr,7)
