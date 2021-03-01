@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a163f956-54bb-4316-9fc3-c41c079f582e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rightrotaion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 1/rightRotaion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 1/arr2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 1/reversalalgo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 1/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 1/arr.rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightrotaion.py" beforeDir="false" afterPath="$PROJECT_DIR$/rightrotaion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,9 +142,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.rightrotaion (1)" />
-        <item itemvalue="Python.rightrotaion" />
         <item itemvalue="Python.reversalalgo (1)" />
         <item itemvalue="Python.arr.rotation (1)" />
+        <item itemvalue="Python.rightrotaion" />
         <item itemvalue="Python.reversalalgo" />
       </list>
     </recent_temporary>
