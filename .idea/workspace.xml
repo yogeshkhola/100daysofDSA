@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a163f956-54bb-4316-9fc3-c41c079f582e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/FibbonacciUsingRecursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/mergeSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/recusiveInsertionSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/mergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/mergeSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,3 +1,4 @@
+#merge sort
 def merge(left,right):
     result=[]
     i,j=0,0
@@ -9,8 +10,8 @@ def merge(left,right):
             result.append(right[j])
             j+=1
 
-    result+=left[i:]
-    result+=right[:j]
+    result+= left[i:]
+    result+= right[j:]
     return result
 
 def mergesort(lst):
