@@ -4,7 +4,7 @@ class node:
         self.next=None
 class LinkedList:
     def __init__(self):
-        self.start=None
+        self.start=None #(self/head)
 
     def viewList(self):#this function print the whole list
         if self.start==None:
