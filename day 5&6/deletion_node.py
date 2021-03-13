@@ -20,14 +20,15 @@ class LinkedList:
     #functon for deletion of node
     def deleteNode(self, key):
 
-           temp = self.head
 
-        # If head node itself holds the key to be deleted
+        temp = self.head
+
+        # If head  node itself holds the key to be deleted
         if (temp is not None):
             if (temp.data == key):
                 self.head = temp.next
                 temp = None
-                return
+                return 
 
         # Search for the key to be deleted, keep track of the
         # previous node as we need to change 'prev.next'
@@ -50,7 +51,7 @@ class LinkedList:
     def printList(self):
         temp = self.head
         while (temp):
-            print(" %d" % (temp.data)),
+            print((temp.data)),
             temp = temp.next
 
 
